@@ -1,6 +1,3 @@
-This is the complete, final, and ready-to-publish source code for **Veloura Hotels**. It is a single-file application containing all HTML, CSS (Tailwind), and JavaScript logic needed to run a professional, high-end booking platform.
-
-```html
 <!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
 <head>
@@ -506,4 +503,3 @@ This is the complete, final, and ready-to-publish source code for **Veloura Hote
     </script>
 </body>
 </html>
-```
